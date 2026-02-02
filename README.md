@@ -95,7 +95,7 @@ While infrastructure exposure is well managed, the impact of identity-centric at
 
 ---
 
-## 🛡 Recommendations (High-Level)
+## 🛡 Recommendations
 - Continuous brand and domain monitoring
 - Strict SPF, DKIM, and DMARC enforcement
 - IAM-specific phishing awareness training
