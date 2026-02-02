@@ -7,7 +7,7 @@ This project is an Open-Source Intelligence (OSINT) Cyber Threat Intelligence (C
 
 The lab demonstrates how SOC and CTI analysts can use passive intelligence collection to identify phishing risk, brand impersonation exposure, infrastructure visibility, and identity-centric threat vectors without interacting with or testing target systems.
 
-The emphasis is on defensive intelligence, business risk understanding, and attacker tradecraft rather than exploitation.
+The emphasis is on defensive intelligence, understanding business risk, and attacker tradecraft, rather than exploitation.
 
 ---
 
